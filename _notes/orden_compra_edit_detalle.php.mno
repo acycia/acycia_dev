@@ -1,0 +1,4 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<info>
+	<infoitem key="UD_insumos" value="name:id_insumo;datatype:int,name:codigo_insumo;datatype:string,name:descripcion_insumo;datatype:string,name:clase_insumo;datatype:int,name:medida_insumo;datatype:int,name:tipo_insumo;datatype:int,name:valor_unitario_insumo;datatype:real,name:stok_insumo;datatype:int,name:peso_insumo;datatype:real,name:dimension_insumo;datatype:string,name:estado_insumo;datatype:int" />
+</info>

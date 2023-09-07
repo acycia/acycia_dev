@@ -1,0 +1,7 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<info>
+	<infoitem key="UD_lista" value="name:oc_ing;datatype:int" />
+	<infoitem key="UD_codigo" value="name:codigo_insumo;datatype:string" />
+	<infoitem key="UD_ano" value="name:id_anual;datatype:int,name:anual;datatype:int" />
+	<infoitem key="UD_mes" value="name:mensual;datatype:string" />
+</info>

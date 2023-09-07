@@ -1,0 +1,4 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<info>
+	<infoitem key="UD_opref" value="name:idcc;datatype:int,name:op;datatype:int,name:id_op;datatype:int,name:id_ref_op;datatype:int,name:int_cotiz_op;datatype:int" />
+</info>

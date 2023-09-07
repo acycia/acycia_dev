@@ -1,0 +1,5 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<info>
+	<infoitem key="UD_ano" value="name:id_anual;datatype:int,name:anual;datatype:int" />
+	<infoitem key="UD_mensual" value="name:id_mensual;datatype:int,name:mensual;datatype:string" />
+</info>

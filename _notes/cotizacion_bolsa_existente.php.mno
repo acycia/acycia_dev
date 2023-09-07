@@ -1,0 +1,5 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<info>
+	<infoitem key="UD_referencias" value="name:id_refcliente;datatype:int,name:id_ref;datatype:int,name:id_c;datatype:int,name:id_ref;datatype:int,name:cod_ref;datatype:string,name:version_ref;datatype:int,name:n_egp_ref;datatype:int,name:n_cotiz_ref;datatype:int,name:tipo_bolsa_ref;datatype:string,name:material_ref;datatype:string,name:ancho_ref;datatype:real,name:largo_ref;datatype:real,name:solapa_ref;datatype:real,name:bolsillo_guia_ref;datatype:real,name:calibre_ref;datatype:real,name:peso_millar_ref;datatype:real,name:impresion_ref;datatype:string,name:num_pos_ref;datatype:string,name:cod_form_ref;datatype:string,name:adhesivo_ref;datatype:string,name:estado_ref;datatype:int,name:registro1_ref;datatype:string,name:fecha_registro1_ref;datatype:date,name:registro2_ref;datatype:string,name:fecha_registro2_ref;datatype:date" />
+	<infoitem key="UD_vendedores" value="name:id_vendedor;datatype:int,name:codigo_vendedor;datatype:int,name:nombre_vendedor;datatype:string" />
+</info>

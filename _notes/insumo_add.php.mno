@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<info>
+	<infoitem key="UD_tipos" value="name:id_tipo;datatype:int,name:nombre_tipo;datatype:string" />
+	<infoitem key="UD_clases" value="name:id_clase;datatype:int,name:nombre_clase;datatype:string" />
+	<infoitem key="UD_medidas" value="name:id_medida;datatype:int,name:nombre_medida;datatype:string" />
+</info>

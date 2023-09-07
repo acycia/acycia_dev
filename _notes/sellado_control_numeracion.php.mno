@@ -1,0 +1,4 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<info>
+	<infoitem key="UD_op" value="name:id_op;datatype:int,name:int_cantidad_op;datatype:real,name:int_undxcaja_op;datatype:int,name:int_undxpaq_op;datatype:int" />
+</info>

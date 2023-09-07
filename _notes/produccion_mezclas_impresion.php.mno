@@ -1,0 +1,5 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<info>
+	<infoitem key="UD_id_pm" value="name:id_pm;datatype:int,name:int_cod_ref_pm;datatype:string" />
+	<infoitem key="UD_ano" value="name:id_anual;datatype:int,name:anual;datatype:int" />
+</info>

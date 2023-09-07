@@ -1,0 +1,4 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<info>
+	<infoitem key="UD_insumo" value="name:id_insumo;datatype:int,name:codigo_insumo;datatype:string,name:descripcion_insumo;datatype:string" />
+</info>

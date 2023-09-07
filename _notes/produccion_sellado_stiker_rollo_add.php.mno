@@ -1,0 +1,7 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<info>
+	<infoitem key="UD_lista_op" value="name:id_op;datatype:int" />
+	<infoitem key="UD_codigo_empleado" value="name:codigo_empleado;datatype:int,name:nombre_empleado;datatype:string,name:tipo_empleado;datatype:int" />
+	<infoitem key="UD_maquinas" value="name:id_maquina;datatype:int,name:codigo_maquina;datatype:string,name:nombre_maquina;datatype:string,name:proceso_maquina;datatype:string" />
+	<infoitem key="UD_usuario" value="name:id_usuario;datatype:int,name:usuario;datatype:string,name:clave_usuario;datatype:string,name:nombre_usuario;datatype:string,name:tipo_usuario;datatype:string,name:codigo_usuario;datatype:string,name:responsable;datatype:string,name:fecha_registro;datatype:date,name:responsable_edit;datatype:string,name:fecha_edit;datatype:date,name:email_usuario;datatype:string" />
+</info>

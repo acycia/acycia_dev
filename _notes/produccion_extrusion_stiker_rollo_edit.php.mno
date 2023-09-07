@@ -1,0 +1,4 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<info>
+	<infoitem key="UD_codigo_empleado" value="name:codigo_empleado;datatype:int,name:nombre_empleado;datatype:string" />
+</info>

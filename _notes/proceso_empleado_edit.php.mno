@@ -1,0 +1,5 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<info>
+	<infoitem key="UD_codigo_empleado" value="name:id_empleado;datatype:int,name:codigo_empleado;datatype:int,name:nombre_empleado;datatype:string,name:apellido_empleado;datatype:string,name:cedula_empleado;datatype:int,name:tipo_empleado;datatype:int,name:fecha_empleado;datatype:datetime" />
+	<infoitem key="UD_lista_procesos" value="name:id_tipo_proceso;datatype:int,name:nombre_proceso;datatype:string" />
+</info>

@@ -1,0 +1,5 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<info>
+	<infoitem key="UD_referencias" value="name:id_ref;datatype:int,name:cod_ref;datatype:string,name:n_cotiz_ref;datatype:int,name:N_cotizacion;datatype:int" />
+	<infoitem key="UD_vendedores" value="name:id_vendedor;datatype:int,name:codigo_vendedor;datatype:int,name:nombre_vendedor;datatype:string" />
+</info>

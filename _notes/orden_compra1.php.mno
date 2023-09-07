@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<info>
+	<infoitem key="UD_lista" value="name:n_oc;datatype:int,name:id_p_oc;datatype:int,name:fecha_pedido_oc;datatype:date,name:fecha_entrega_oc;datatype:date,name:cond_pago_oc;datatype:string,name:observacion_oc;datatype:blob,name:valor_bruto_oc;datatype:real,name:valor_iva_oc;datatype:real,name:total_oc;datatype:real,name:lugar_entrega_oc;datatype:string,name:aprobo_oc;datatype:string,name:responsable_oc;datatype:string,name:userfilenuevo;datatype:string" />
+	<infoitem key="UD_proveedores" value="name:id_p;datatype:int,name:nit_p;datatype:string,name:proveedor_p;datatype:string,name:tipo_p;datatype:int,name:tipo_servicio_p;datatype:string,name:direccion_p;datatype:string,name:pais_p;datatype:string,name:dpto_p;datatype:string,name:ciudad_p;datatype:string,name:telefono_p;datatype:string,name:fax_p;datatype:string,name:contacto_p;datatype:string,name:celular_c_p;datatype:string,name:email_c_p;datatype:string,name:contribuyentes_p;datatype:int,name:autoretenedores_p;datatype:int,name:regimen_p;datatype:string,name:prod_serv_p;datatype:blob,name:registro_p;datatype:string,name:fecha_registro_p;datatype:date,name:modificacion_p;datatype:string,name:fecha_modif_p;datatype:date" />
+	<infoitem key="UD_ano" value="name:id_anual;datatype:int,name:anual;datatype:int" />
+</info>

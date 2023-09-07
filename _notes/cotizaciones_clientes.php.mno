@@ -1,0 +1,4 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<info>
+	<infoitem key="UD_cliente2" value="name:id_cotiz;datatype:int,name:N_cotizacion;datatype:int,name:Str_nit;datatype:string,name:Str_tipo;datatype:string" />
+</info>

@@ -1,0 +1,5 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<info>
+	<infoitem key="UD_n_pais" value="name:id_pais;datatype:int,name:nombre_pais;datatype:string,name:indicativo;datatype:int" />
+	<infoitem key="UD_n_ciudad" value="name:id_ciudad;datatype:int,name:nombre_ciudad;datatype:string,name:ind_ciudad;datatype:int" />
+</info>

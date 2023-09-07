@@ -1,0 +1,4 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<info>
+	<infoitem key="UD_generadores" value="name:id_generadores;datatype:int,name:nombre_generadores;datatype:string,name:categoria_generadores;datatype:string" />
+</info>

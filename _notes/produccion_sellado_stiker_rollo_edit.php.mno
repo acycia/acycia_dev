@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<info>
+	<infoitem key="UD_lista_op" value="name:id_op;datatype:int" />
+	<infoitem key="UD_maquinas" value="name:id_maquina;datatype:int,name:codigo_maquina;datatype:string,name:nombre_maquina;datatype:string,name:proceso_maquina;datatype:string" />
+	<infoitem key="UD_codigo_empleado" value="name:codigo_empleado;datatype:int,name:nombre_empleado;datatype:string,name:tipo_empleado;datatype:int" />
+	<infoitem key="UD_usuario" value="name:id_usuario;datatype:int,name:usuario;datatype:string,name:clave_usuario;datatype:string,name:nombre_usuario;datatype:string,name:tipo_usuario;datatype:string,name:codigo_usuario;datatype:string,name:responsable;datatype:string,name:fecha_registro;datatype:date,name:responsable_edit;datatype:string,name:fecha_edit;datatype:date,name:email_usuario;datatype:string" />
+	<infoitem key="UD_ultimo" value="name:id_r;datatype:int,name:rollo_r;datatype:int,name:id_op_r;datatype:int,name:ref_r;datatype:string,name:placa_r;datatype:string,name:bolsas_r;datatype:int,name:maquina_r;datatype:int,name:numIni_r;datatype:string,name:numFin_r;datatype:string,name:cod_empleado_r;datatype:int,name:cod_auxiliar_r;datatype:int,name:turno_r;datatype:int,name:fechaI_r;datatype:datetime,name:fechaF_r;datatype:datetime,name:metro_r;datatype:int,name:kilos_r;datatype:real,name:observ_r;datatype:blob" />
+	<infoitem key="UD_rollo_edit" value="name:id_r;datatype:int,name:rollo_r;datatype:int,name:id_op_r;datatype:int,name:ref_r;datatype:string,name:placa_r;datatype:string,name:bolsas_r;datatype:int,name:maquina_r;datatype:int,name:numIni_r;datatype:string,name:numFin_r;datatype:string,name:cod_empleado_r;datatype:int,name:cod_auxiliar_r;datatype:int,name:turno_r;datatype:int,name:fechaI_r;datatype:datetime,name:fechaF_r;datatype:datetime,name:metro_r;datatype:int,name:kilos_r;datatype:real,name:observ_r;datatype:blob" />
+</info>

@@ -1,0 +1,5 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<info>
+	<infoitem key="UD_lista_op" value="name:id_op;datatype:int" />
+	<infoitem key="UD_codigo_empleado" value="name:codigo_empleado;datatype:int,name:nombre_empleado;datatype:string,name:tipo_empleado;datatype:int" />
+</info>
